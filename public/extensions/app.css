@@ -1,0 +1,109 @@
+.my-table {
+  width: 100%;
+  margin: 0;
+}
+
+
+.time-slot {
+  /*background-color: #E7EAED;*/
+  background-color: #ef8200;
+  text-align: center;
+  color: #fff;
+  width: 100%;
+}
+
+.session-slot {
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 1px;
+}
+
+
+.session-time {
+  /* background-color: #EFF5FC; */
+  color: #666666;
+  padding-right: 3px;
+}
+
+.start-time {
+  vertical-align: top;
+  padding-top: 5px;
+}
+
+.end-time {
+  color: #aaaaaa;
+  border-bottom: 1px solid #eee;
+  padding-right: 3px;
+  vertical-align: center;
+}
+
+.session-info {
+  position: relative;
+  float: left;
+  word-wrap: break-word; 
+}
+
+.session-title {
+  color: #052040;
+  white-space: normal;
+  word-wrap: break-word;
+  font-size: 1.3em;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+.session-speaker {
+  color: #052040;
+  word-wrap: break-word;
+  font-size: 1.1em;
+  padding: 2px;
+  cursor: pointer;  
+}
+
+.session-button {
+  vertical-align: center;
+  cursor: pointer;
+}
+
+.button-add-session {
+  border-radius: 40%;
+  border: none;
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+.bottom-row {
+  margin-bottom: 10px;
+}
+
+.session-room {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  cursor: pointer;
+}
+
+
+.added-button {
+  border-radius: 50%;
+  color: #25B010;
+}
+
+.add-button {
+  background-color: white;
+  border-radius: 60%;
+  color: #aaaaaa;
+}
+
+.session-header {
+  background-color: #555;
+  color: white;
+}
+
+.session-description {
+  font-size: 14px;
+}
+
+.speaker-bio {
+  font-size: 12px;
+}
